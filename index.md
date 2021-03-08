@@ -2,72 +2,31 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+欢迎访问鸟类生态与进化研究组！
+Welcome to Avian Ecology and Evolution Gruop.
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+# 野外札记
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+记录贵组研究的野外奇遇
 
-# Header 1
+## Journal Club
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+相关研究的文献分享；
+有趣的文献分享。
 
-## Header 2
+### 志愿者招募
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+研究课题志愿者的招募信息。
 
-### Header 3
+#### Nature路上的故事
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+贵组发表的文章分享。（第一作者）
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+##### 大片来了
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+拍摄的照片；
+手绘的美图。
 
 ### And an ordered list:
 
@@ -91,15 +50,6 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
 
 ### Definition lists can be used with HTML syntax.
 
