@@ -28,10 +28,3 @@ Welcome to Avian Ecology and Evolution Gruop.
 拍摄的照片；
 手绘的美图。
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
