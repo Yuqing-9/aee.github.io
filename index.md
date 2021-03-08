@@ -2,10 +2,6 @@
 layout: default
 ---
 
-欢迎访问鸟类生态与进化研究组！
-Welcome to Avian Ecology and Evolution Gruop.
-
-
 ### 野外札记
 
 记录贵组研究的野外奇遇
